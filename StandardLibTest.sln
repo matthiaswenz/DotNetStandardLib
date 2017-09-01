@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardLibTest", "StandardLibTest\StandardLibTest.csproj", "{ED112456-8C91-45FF-911D-38513663E0DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Droid", "App.Droid\App.Droid.csproj", "{642415CB-AB59-4D61-B937-D2BD609270CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{ED112456-8C91-45FF-911D-38513663E0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED112456-8C91-45FF-911D-38513663E0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED112456-8C91-45FF-911D-38513663E0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642415CB-AB59-4D61-B937-D2BD609270CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642415CB-AB59-4D61-B937-D2BD609270CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642415CB-AB59-4D61-B937-D2BD609270CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642415CB-AB59-4D61-B937-D2BD609270CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
